@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "QuizChain",
+    "iconUrl": "https://quizchain-mini-app.vercel.app/icon.png",
+    "homeUrl": "https://quizchain-mini-app.vercel.app",
+    "imageUrl": "https://quizchain-mini-app.vercel.app/og-image.png",
+    "buttonTitle": "Play QuizChain",
+    "splashImageUrl": "https://quizchain-mini-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000"
+  }
+}
