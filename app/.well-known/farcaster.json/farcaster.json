@@ -1,0 +1,17 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEzOTY4OTcsInR5cGUiOiJhdXRoIiwia2V5IjoiMHg4QjdiZUVDYmY4QUVDOWIxNDFFQkU5NEQ4NzgyMjQwYjBkRDMwNmMzIn0",
+    "payload": "eyJkb21haW4iOiJxdWl6Y2hhaW4tbWluaS1hcHAudmVyY2VsLmFwcCJ9",
+    "signature": "dPItliH7Hu2U8gkJIWqiKtSOZwpTIyAiWx+OOAZYX8BDRvbrNofTIwhatrHs+w4tA1XurAqUISxUV5UIMO4Eexw="
+  },
+  "frame": {
+    "version": "1",
+    "name": "QuizChain",
+    "iconUrl": "https://quizchain-mini-app.vercel.app/icon.png",
+    "homeUrl": "https://quizchain-mini-app.vercel.app",
+    "imageUrl": "https://quizchain-mini-app.vercel.app/og-image.png",
+    "buttonTitle": "Play QuizChain",
+    "splashImageUrl": "https://quizchain-mini-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000"
+  }
+}
